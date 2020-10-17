@@ -115,7 +115,7 @@
 
         <h4>NCE</h4>
             <ul>
-                <li></li>
+                <li>Added Decoder Definition for Athearn lights only caboose.  This is a custom NCE decoder built for Athearn's latest caboose release equpped with lights</li>
             </ul>
 
         <h4>Oak Tree</h4>
